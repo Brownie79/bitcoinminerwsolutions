@@ -1,5 +1,5 @@
 import hashlib, struct, codecs
- 
+
 ver = 
 prev_block = ""
 mrkl_root = ""  
